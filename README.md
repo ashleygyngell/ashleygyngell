@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashley!</h1>
 <h3 align="center">A Junior Software Engineer from London</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m learing **TypeScript** next! 
 
 - 🔭 I’m currently working on [Lyricle](https://github.com/ashleygyngell/lyricle-frontend)
 
