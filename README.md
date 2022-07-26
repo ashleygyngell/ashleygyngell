@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashley!</h1>
+<h1 align="center">Hi 👋 I'm Ashley!</h1>
 <h3 align="center">A Junior Software Engineer from London</h3>
 
 - 🌱 I’m learing **TypeScript** next! 
