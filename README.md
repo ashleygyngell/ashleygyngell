@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Lyricle](https://github.com/ashleygyngell/lyricle-frontend)
 
-- 👨‍💻 All of my projects are available at [ashleygyngell.co.uk](ashleygyngell.co.uk)
+- 👨‍💻 All of my projects are available at **[ashleygyngell.co.uk](ashleygyngell.co.uk)**
 
 - 📫 How to reach me **ashleygyngell@gmail.com**
 
