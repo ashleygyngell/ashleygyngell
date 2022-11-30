@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Ashley!</h1>
 <h3 align="center">Junior Software Engineer from London</h3>
 
-- 🌱 I’m currently learning **TypeScript** ! 
+- 🌱 I’m currently learning **TypeScript**! 
 
-- 🔭 For the time being, I'm working as a freelance Web Developer for [Bridge Family Mediation](http://www.bridgefamilymediation.co.uk/)
+- 🔭 For the time being, I'm working as a Freelance Web Developer for [Bridge Family Mediation](http://www.bridgefamilymediation.co.uk/)
 
 - 👨‍💻 All of my projects are available at **[ashleygyngell.co.uk](ashleygyngell.co.uk)**
 
