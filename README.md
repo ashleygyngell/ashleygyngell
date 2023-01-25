@@ -5,7 +5,7 @@
 
 - 🔭 For the time being, I'm working as a Freelance Web Developer for [Bridge Family Mediation](http://www.bridgefamilymediation.co.uk/)
 
-- 👨‍💻 All of my projects are available at **[ashleygyngell.co.uk](ashleygyngell.co.uk)**
+- 👨‍💻 All of my projects are available at **[ashleygyngell.co.uk](http://www.ashleygyngell.co.uk)**
 
 - 📫 How to reach me **ashleygyngell@gmail.com**
 
